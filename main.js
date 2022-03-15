@@ -2,7 +2,7 @@
 
 const path = require('path')
 const { app, ipcMain } = require('electron')
-
+// our constructors
 const Window = require('./Window')
 const DataStore = require('./DataStore')
 
